@@ -1,0 +1,7 @@
+Employee ID:2103319
+Employee Name     :Rujul Dwivedi
+Father's Name     :Manoj Dwivedi
+Employee Contact  :9695133900
+Email Information :rujul.dwivedi.21033@iitgoa.ac.in
+Employee position :Admin
+Employee Salary   :2100000
